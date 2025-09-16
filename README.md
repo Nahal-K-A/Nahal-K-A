@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nahal-K-A
-- 👀 I’m interested in Coding, AI, 3D animation(and playing games too😊)
+- 🤖 Paasionate in Robotics and AI
+- 🎮 Interested in Game Develpment and 3D Animation
 - 🌱 I’m currently learning B.Tech in Robotics and Artificial Intelligence
 - 📚 Always happy to learn more and new things
 
